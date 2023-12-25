@@ -1,1 +1,8 @@
 Hello world
+
+## Learning Github
+I am learning git and github 
+I learnt How to create a git repo on local and remote git repo using (Github)
+Added gitignore file 
+Added remote origin url link 
+And finally added all changes and pushed to github 
